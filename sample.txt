@@ -4,3 +4,6 @@ github 远程修改内容
 本地修改内容
 在 issue1 分支下添加的内容
 在 issue2 分支下添加的内容
+在 issue3 分支下添加的内容
+commit --amtend操作
+rebase 提交修改
