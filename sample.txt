@@ -6,3 +6,4 @@ github 远程修改内容
 在 issue2 分支下添加的内容
 在 issue3 分支下添加的内容
 修复bug1
+修复bug2
